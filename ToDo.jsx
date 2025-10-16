@@ -12,7 +12,7 @@ function ToDo() {
   };
 
   return (
-    <div>
+    <div style={{ padding: "20px", maxWidth: "400px", margin: "auto" }}>
       <h2>To-Do List</h2>
       <input
         type="text"
